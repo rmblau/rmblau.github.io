@@ -1,3 +1,3 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 domain: rmblau.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://rmblau.github.io  # the base hostname and protocol for your site, e.g. http://example.com
