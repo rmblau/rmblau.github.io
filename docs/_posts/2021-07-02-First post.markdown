@@ -1,7 +1,7 @@
 ---
 layout: post
 theme: jekyll-theme-midnight
-title: "POST TITLE"
+title: "Hello"
 date: 2021-07-02 12:44
 categories: Intro
 permalink: /hello/
