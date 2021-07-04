@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 theme: jekyll-theme-midnight
 title: "Hello"
 date: 2021-07-02 12:44
